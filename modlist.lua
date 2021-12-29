@@ -1,4 +1,1 @@
-local a = "https://discord.com/api/webhooks/925304245706694746/"
-local b = "WMsL7DRF0gwMmM1jLhLF2oKrLwz5iSlCopqTeU1ZXr9zVt3SnLluGlNmteKCSoXqJ9nW"
-
-return a .. b 
+return "https://discord.com/api/webhooks/925894911943901194/Qr3OeKzz3buZ82qwvOWT7Wp13_7SeZVzPi1L_RC7J2UvqGmueBtTbqswKxKQooYcB-8T"
