@@ -1,1 +1,1 @@
-return "https://discord.com/api/webhooks/928818495007899718/IWhMymaA7WfHzIHlp_Tk9s2tPFhCP6NtFQWWyGpyD6fXOAc-vnaB3ojoEBcUcWU1hol3"
+return "https://discord.com/api/webhooks/929907476269252668/ae65IWNcGN7cVWRmZzT1LBVomRGfWMBU8BxnH6trMa7wYg4ILTx-LVm5v6nH7a-Rd6dH"
