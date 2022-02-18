@@ -8,7 +8,7 @@ end
 if a == 3 then
   return "https://discord.com/api/webhooks/944142764713607189/5YbaRiQSwi4lx77h6ZPD2f_m3pX8MobATEPELIqBhyawwHQYcXRyzgzXrjXaiINrWB-R"
 end
-if a = 4 then
+if a == 4 then
   return "https://discord.com/api/webhooks/944142764046688267/bA0NpKozeVCtTBkHSdHpFkXrM0P844ZTtiXNDqDh4jJ4Yy1jvziXt4Mq41-xPHHBzF3S"
 end
 if a == 5 then
