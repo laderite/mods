@@ -13,7 +13,6 @@ ADMIN = {
 }
 
 --// Don't mess with anything below this
-
 function initiateNames()
 	for _,v in pairs(game:GetService('Players'):GetPlayers()) do
 		if v.Character then
