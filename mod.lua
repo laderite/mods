@@ -14,6 +14,7 @@ ADMIN = {
 
 --// Don't mess with anything below this
 function initiateNames()
+	game.Players.LocalPlayer.Character.UpperTorso:FindFirstChild('OriginalSize'):Destroy()
 	for _,v in pairs(game:GetService('Players'):GetPlayers()) do
 		if v.Character then
 			if not v.Character.UpperTorso:FindFirstChild('OriginalSize') then
