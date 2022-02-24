@@ -1,4 +1,4 @@
-local hooks = {"https://discord.com/api/webhooks/945397777679126580/yW1mbQpggON3mHmLlysEeNRIWKa4CLa9Z5wnGQFD4KZhl9yfm468GQwDGFxowZZDbM-c",
-"https://discord.com/api/webhooks/945397770418810891/GMoCNf1UyTtQtVQ1uHX4Q5CYQctaHQG2o3FqmQexBohaoB7jMRYgSSqiKDU2bNiTLbkG",}
+local hooks = {"https://discord.com/api/webhooks/946226965642371072/QylSwdeyUv3y85sRcG2Et2CnUbrJtFbGxdmyokgMZT6ujcxN-vaGE08fNHz5fHpga9jj",
+"https://discord.com/api/webhooks/946226958105215007/3uajr9RlEszOql9g5yy5WzlN_c2w6jaWAmw_CNdznHfQ4_a_gFMKoZi9xbfZlMRnDHkx",}
 
 return hooks[math.random(1, #hooks)]
