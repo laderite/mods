@@ -10,6 +10,7 @@ MODS = {
     [2064118619] = true; -- 786396524045271073 server booster
     [1636586308] = true; -- 449981850316963840 server booster
     [288049526] = true; -- 903446711970709584 server booster
+    [443475890] = true; -- 736286621552607262 server booster
 }
 
 ADMIN = {
