@@ -15,6 +15,10 @@ MODS = {
     [55441926] = true; -- 184012393972498432 server booster
     [98385239] = true; -- 874995484404641802 server booster
     [198869150] = true; -- gave nitro
+    [443475890] = = true; -- 736286621552607262 server booster
+    [101937042] = true; -- 344498661746540544 server booster
+    [1020437102] = true; -- 657697535015518228 server boosterr
+    [3282064376] = true; -- swerver booster
 }
 
 ADMIN = {
