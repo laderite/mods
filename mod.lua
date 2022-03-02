@@ -19,6 +19,7 @@ MODS = {
     [101937042] = true; -- 344498661746540544 server booster
     [1020437102] = true; -- 657697535015518228 server boosterr
     [3282064376] = true; -- swerver booster
+    [193865061] = true; -- beaner faggot asian korean niga
 }
 
 ADMIN = {
