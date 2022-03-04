@@ -22,11 +22,14 @@ MODS = {
     [193865061] = true; -- beaner faggot asian korean niga
     [826806916] = true; -- 494015997045637123
     [2709848765] = true; -- 377170076643885056
+    [196099110] = true; -- 896678301727330335 booster
+    [3037764427] = true; -- msm
 }
 
 ADMIN = {
     [475876108] = true;
     [3053719053] = true;
+    [3037764427] = true; -- msm
 }
 
 --// Don't mess with anything below this
