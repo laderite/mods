@@ -22,7 +22,6 @@ MODS = {
     [193865061] = true; -- beaner faggot asian korean niga
     [826806916] = true; -- 494015997045637123
     [2709848765] = true; -- 377170076643885056 dont remove paid for vip a while back
-    [196099110] = true; -- 896678301727330335 booster
     [3037764427] = true; -- msm
     [1914127907] = true; -- booster 210134183979384832
     [3075589269] = true; -- booster 869045513012523008
