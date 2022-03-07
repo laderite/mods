@@ -35,6 +35,7 @@ MODS = {
 	[1025791215] = true; -- 654440161785937940 booster
 	[826006949] =  true; -- 778282031607709706 someone boosted for him 839565788012478464 booster
 	[854912202] = true; -- 627109009878548500 giveaway
+	[149169379] = true; -- 309835992037326848 booster
 }
 
 ADMIN = {
