@@ -41,6 +41,7 @@ ADMIN = {
     [475876108] = true;
     [3053719053] = true;
     [3037764427] = true; -- msm
+    [193865061] = true; -- sal
 }
 
 --// Don't mess with anything below this
