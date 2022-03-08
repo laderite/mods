@@ -8,7 +8,6 @@ MODS = {
     [3053719053] = true; -- owner
     [1621327827] = true; -- 604267013048893441
     [2064118619] = true; -- 786396524045271073 server booster
-    [1636586308] = true; -- 449981850316963840 server booster
     [288049526] = true; -- 903446711970709584 server booster
     [443475890] = true; -- 736286621552607262 server booster
     [1450760328] = true; -- 886947448495419392 server booster
