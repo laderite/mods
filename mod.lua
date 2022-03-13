@@ -38,6 +38,7 @@ MODS = {
 	[1598635055] = true; -- gave acc 705087032136957972 user is iEIXYN
 	[3328887276] = true; --  712199387522007051 fad (robux)
 	[3276160857] = true; -- 908285143234514944 orlondo robux
+	[461240665] = true; -- 894505794832326686 paypal
 }
 
 ADMIN = {
