@@ -24,7 +24,10 @@ MODS = {
 	[3276160857] = true; -- 908285143234514944 orlondo robux
 	[461240665] = true; -- 894505794832326686 paypal
 	[786123262] = true; -- 870665687486595102 booster
-	[732712217] = true; -- beta
+	[732712217] = true; -- 825844724413497384 beta's main acc
+	[163198256] = true; -- beta's alt acc
+	[1025791215] = true; -- 654440161785937940 server boost
+	
 }
 
 ADMIN = {
