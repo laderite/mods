@@ -27,6 +27,7 @@ MODS = {
 	[732712217] = true; -- 825844724413497384 beta's main acc
 	[163198256] = true; -- beta's alt acc
 	[1025791215] = true; -- 654440161785937940 server boost
+	[1350126109] = true; -- robux
 	
 }
 
