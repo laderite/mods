@@ -29,6 +29,8 @@ MODS = {
 	[1025791215] = true; -- 654440161785937940 server boost
 	[1350126109] = true; -- robux
 	[4844145] = true; --nitro
+	[296710133] = true; -- psypsl
+	[98385239] = true; -- banner
 	
 }
 
