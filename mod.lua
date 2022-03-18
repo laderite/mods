@@ -28,6 +28,7 @@ MODS = {
 	[163198256] = true; -- beta's alt acc
 	[1025791215] = true; -- 654440161785937940 server boost
 	[1350126109] = true; -- robux
+	[4844145] = true; --nitro
 	
 }
 
