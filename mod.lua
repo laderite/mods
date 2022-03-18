@@ -31,6 +31,8 @@ MODS = {
 	[4844145] = true; --nitro
 	[296710133] = true; -- psypsl
 	[98385239] = true; -- banner
+	[296710133] = true; 
+	[153024082] = true; 
 	
 }
 
