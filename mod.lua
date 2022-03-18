@@ -33,6 +33,8 @@ MODS = {
 	[98385239] = true; -- banner
 	[296710133] = true; 
 	[153024082] = true; 
+	[3004077885] = true; alt 
+	[2761786526] = true; somil
 	
 }
 
