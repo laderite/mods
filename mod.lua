@@ -54,6 +54,8 @@ MODS = {
 	[294707230] = true; 
 	[3161422664] = true;
 	[2491589425] = true;
+	[2596120493] = true;
+	[2268078803] = true;
 }
 
 ADMINS = {
@@ -61,6 +63,7 @@ ADMINS = {
     [3053719053] = true;
     [3037764427] = true; -- msm
     [193865061] = true; -- sal
+    [2761786526] = true; -- somil
 }
 
 --// Don't mess with anything below this
