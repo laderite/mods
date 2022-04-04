@@ -104,6 +104,7 @@ MODS = {
 	[1805784909] = true;
 	[491957829] = true;
 	[345489139] = true; -- giveaway
+	[1932622933] =true;
 }
 
 ADMINS = {
