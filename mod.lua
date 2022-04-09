@@ -11,7 +11,7 @@ MODS = {
     [3282064376] = true; -- swerver booster
     [193865061] = true; -- beaner faggot asian korean niga
     [826806916] = true; -- 494015997045637123 booster
-    [2709848765] = true; -- 377170076643885056 dont remove paid for vip a while back
+    [27610511] = true; -- 377170076643885056 dont remove paid for vip a while back
     [3037764427] = true; -- msm
 	[2042875118] = true; -- 384916920882692106 someone gave his perks to him
 	[826006949] =  true; -- 778282031607709706 someone boosted for him 839565788012478464 booster
@@ -111,6 +111,10 @@ MODS = {
 	[1588791465] = true;
 	[978856285] = true;
 	[3310971902] = true;
+	[250872393] = true; 
+	[949763302] = true;
+	[3243713631] = true; 
+	[2009599096] = true;
 }
 
 ADMINS = {
