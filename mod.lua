@@ -180,8 +180,6 @@ function initiateNames()
 				v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑] ' .. v.DisplayName)
 			elseif MODS[v.UserId] then
                 v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐] ' .. v.DisplayName)
-            elseif not v.Character.LowerTorso:FindFirstChild('OriginalSize') then
-                v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[😎] ' .. v.DisplayName)
             end
 		end
 	end
